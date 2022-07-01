@@ -7,7 +7,7 @@ public class Main {
 public static void main(String [] args) {
 	createtable.createNewTable();
 	insert("  VIKRAM VEDHA","  madhavan  ","Vijay Sethupathi    ",2019,"Pushkar");
-	insert("  okok  ","UDHAY",nyan            ",2012,"Vignesh Shivan");
+	insert("  okok  ","UDHAY","nyan            ",2012,"Vignesh Shivan");
 	insert("Master"," VJ","Nyann",2020,"Lokesh");
 	insert("Thuppaki","Vj   ","Kajal       ",2016,"Murugadoss");
 	insert("Bigil    ","Vj   ","Nyan    ",2019,"Atlee");
